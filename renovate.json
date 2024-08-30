@@ -1,5 +1,7 @@
 {
   "configMigration": false,
   "prHourlyLimit": 10,
-  "extends": "config:base"
+  "extends": [
+    "config:recommended"
+  ]
 }
